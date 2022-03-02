@@ -1,6 +1,9 @@
 # brain_games
 
-A new Flutter project.
+The application contains three games, the first game is to drag some pictures and drop them on the correct
+word, the second game is matching pairs, and the tic tac toe game
+![Apple iPhone 11 Pro Max Presentation](https://user-images.githubusercontent.com/50055185/156441824-cb791b4c-7ac9-4290-88fb-b63529250289.png)
+
 
 ## Getting Started
 
