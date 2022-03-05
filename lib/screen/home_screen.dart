@@ -59,7 +59,7 @@ class HomeScreen extends StatelessWidget {
                        children:  [
                          SizedBox(
                            height: 160,
-                             child: Image.asset('assets/drag.png',)
+                             child: Image.asset('assets/images/drag.png',)
 
                          ),
                          const Spacer(),
@@ -102,7 +102,7 @@ class HomeScreen extends StatelessWidget {
                        children:  [
                          SizedBox(
                            height: 160,
-                             child: Image.asset('assets/memory.png',)
+                             child: Image.asset('assets/images/memory.png',)
 
                          ),
                          const Spacer(),
@@ -145,7 +145,7 @@ class HomeScreen extends StatelessWidget {
                        children:  [
                          SizedBox(
                            height: 160,
-                             child: Image.asset('assets/tic-tac-toe.png',)
+                             child: Image.asset('assets/images/tic-tac-toe.png',)
 
                          ),
                          const Spacer(),
